@@ -1,2 +1,5 @@
 # hello-world
-MY FIRST GIT
+
+´´´javascript
+for(var i= 0;i<o;i++){} 
+´´´
